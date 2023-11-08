@@ -2,15 +2,15 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+url: "https://localhost"
+baseurl: "/dioneldelgado"
+facebook_username: "dionel.delgadogonzalez"
+#twitter_username: ""
+#instagram_username: ""
+#github_username:  ""
+#deviantart_username: ""
+#flickr_username: ""
+#discus_shortname: ""
 share: true
 
 # Owner/author information
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://localhost/dioneldelgado/gallery/"  
+  - JOURNAL: "http://localhost/dioneldelgado/journal/"
+  - ABOUT: "/dioneldelgado/about/"
 
 # All translation keys
 translations:
